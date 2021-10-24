@@ -1,0 +1,17 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+}
+.session{
+    display: inline-block;
+}
+.subsession{
+    display: inline-block;
+    width: 49%;
+}
+.text1{
+    width: 49%;
+    vertical-align: middle;
+}
